@@ -1,0 +1,8 @@
+
+{
+    "0":"Success",
+    "2":"Invalid Command Syntax",
+    "6":"Specified group doesn't exist",
+    "8":"Can't remove users primary group",
+    "10":"Can't update group file"
+}
